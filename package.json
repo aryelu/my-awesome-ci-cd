@@ -2,7 +2,7 @@
   "name": "my-awesome-ci-cd",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://arye-cider.github.io/my-awesome-ci-cd",
+  "homepage": "https://aryelu.github.io/my-awesome-ci-cd",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
